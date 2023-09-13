@@ -57,7 +57,6 @@ I possess nearly 5 years of expertise as a skilled mobile developer, primarily f
 	</tr>
 
    </table>
-   
 
 ## Connect with me:
 
@@ -65,6 +64,7 @@ I possess nearly 5 years of expertise as a skilled mobile developer, primarily f
 <a href = "https://www.linkedin.com/in/michealenehenry"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/KyreeHenry"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
+   
 
 <br>
 <hr>
