@@ -1,14 +1,14 @@
 ### Hi 👋, I'm [kyreehenry](https://twitter.com/KyreeHenry) 
 
-I possess nearly 5 years of expertise as a skilled mobile developer, primarily focused on crafting intuitive user interfaces. Throughout my 4-year professional career, I have honed my skills in web development, including instructing, collaborating with, and leading teams. My experience spans a wide spectrum of applications, such as e-commerce, SaaS, edtech, and more, all developed using C# and .NET Core, reflecting my commitment to delivering both functional and visually appealing solutions.
+I possess nearly 5 years of expertise as a skilled mobile developer, primarily focused on crafting intuitive user interfaces. Throughout my 4-year professional career, I have honed my skills in web development, including instructing, collaborating with, and leading teams. My experience spans a wide spectrum of applications, such as e-commerce, SaaS, edtech, and more, all developed using C# and . NET Core, reflecting my commitment to delivering both functional and visually appealing solutions.
 
-- 🌱 I’m currently working on loads of exciting projects 
+* 🌱 I’m currently working on loads of exciting projects 
 
 ## Stats && Technologies I use:
 
-
 <table>
   <tr>
+
     <!-- <td>
       <a href="https://github.com/mmnldm"><img alt="Mmnldm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mmnldm&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000" /></a>
     </td>
@@ -18,7 +18,9 @@ I possess nearly 5 years of expertise as a skilled mobile developer, primarily f
     <td>
       <a href="https://github.com/mmnldm"><img alt="Mmnldm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmnldm&layout=compact&theme=react&hide_border=true&bg_color=000"/></a>
     </td> -->
+
   <tr>
+
     <tr>
     <td>
       <p align="center">
@@ -44,8 +46,6 @@ I possess nearly 5 years of expertise as a skilled mobile developer, primarily f
         <p align="center">CSS</p>
       </p>
     </td>
-	</tr>
-<tr>
     <td>      
       <p align="center">
         <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
@@ -54,21 +54,20 @@ I possess nearly 5 years of expertise as a skilled mobile developer, primarily f
         <p align="center">Tailwind</p>
       </p>
     </td>
-   
-  </tr>	
+	</tr>
+
    </table>
    
-
-
-<br>
-<hr>
-<p align = "center">
-Show some ❤️ by starring some of my repositories and do follow 😄!
-</p>
 
 ## Connect with me:
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/michealenehenry"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/KyreeHenry"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+</p>
+
+<br>
+<hr>
+<p align = "center">
+Show some ❤️ by starring some of my repositories and do follow 😄!
 </p>
