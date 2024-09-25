@@ -1,6 +1,6 @@
 ### Hi 👋, I'm [kyreehenry](https://twitter.com/KyreeHenry) 
 
-I possess nearly 5 years of expertise as a skilled web developer, primarily focused on crafting intuitive user interfaces. Throughout my 4-year professional career, I have honed my skills in web development, including instructing, collaborating with, and leading teams. My experience spans a wide spectrum of applications, such as e-commerce, SaaS, and more, all developed using C# and . NET Core, reflecting my commitment to delivering both functional and visually appealing solutions.
+I possess 7 years of expertise as a skilled software engineer, primarily focused on crafting intuitive user interfaces. Throughout my 5years professional career, I have honed my skills in web development, including instructing, collaborating with, and leading teams. My experience spans a wide spectrum of applications, such as e-commerce, SaaS, and more, all developed using C# and . NET Core, reflecting my commitment to delivering both functional and visually appealing solutions.
 
 - 🌱 I’m currently working on loads of exciting projects
 <!-- - 📋 I'm available for .NetCore developer role (remote) - [ Check my CV](https://docs.google.com/document/d/1oN_SDzvSnOPBW8xy7e2ZyocrXaARAR1Ih5iTWABmM2E/edit?usp=sharing) -->
